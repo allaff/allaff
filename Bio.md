@@ -15,4 +15,6 @@
 <hr>
 <div>
   <a href="https://instagram.com/__allaff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <br>
+  <a href="https://t.me/+380509144504">Telegram</a>
 </div>
