@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on: change the world.
 - 🤔 I’m looking for help with: Data bank
 - 💬 Ask me about: me
-- 📫 How to reach me: allaff.ribeiro@academico.ifpb.edu.br or Telegram: <a href="https://t.me/+380509144504">Telegram</a>
+- 📫 How to reach me: allaff.ribeiro@academico.ifpb.edu.br or <a href="https://t.me/+380509144504">Telegram</a>
 - 😄 Pronouns: he/she 💍
 - ⚡ Fun fact: 🖥 + ☕ = </>
 <div style="display: inline_block"><br>
