@@ -9,4 +9,9 @@
 - 📫 How to reach me: allaff.ribeiro@academico.ifpb.edu.br or Telegram: (83) 9 8120-2759
 - 😄 Pronouns: he/she 💍
 - ⚡ Fun fact: 🖥 + ☕ = </>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Labe-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>               
+<div>
+  <a href="https://instagram.com/__allaff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
