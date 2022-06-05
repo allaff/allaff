@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); /*importanto as fontes para as letras*/
+
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+} /*Reset universal*/
+
+html{
+    scroll-behavior: smooth;
+} /*Efeito de rolagem*/
+
+body{
+    background: linear-gradient(50deg, #000782, #3799da);
+} /*cor de fundo da página*/
+
+nav ul{
+    background:rgba(0,5,26,0.7);
+    backdrop-filter: blur(10px);
+    list-style: none;
+    display:flex;
+    gap: 8rem;
+    text-align: center;
+    align-items: center;
+    position: fixed;
+    height: 2rem; /*altura*/
+    width: 100%; /*largura*/
+} /*estilo da navegação*/
+
+.content{
+    border-top: 1rem solid #7900fa;
+    background-color: #fff;
+    display: none;
+    position: absolute;
+    height: 320px;
+    width: 600px;
+    left: 0;
+}
+
+a{
+    margin: 4rem;
+    color: #ffffff;
+    text-decoration: none; /*Tirando aquele texto sublinhado dos links*/
+} 
+
+a:hover{
+    color: #7900fa;
+    font-size: 100%;
+    transition: all .4s;
+} /*Quando passar o mouse em cima da palavra mudará de cor*/
+
+img.align-center{
+    display: block;
+    margin: 0px auto;
+    align-items: center;
+    padding-bottom: 1rem;
+} /*Aliando a imagem no centro da página*/
+
+img.medium{
+    width: auto;
+    height:100vh;
+    align-items: center;
+    border-radius: 3rem;
+} /*Definindo o tamanho da imagem*/
+
+section{
+    min-height: 100vh;
+    padding-top: 3rem;
+} /*Tamanho de cada sessão*/
+
+footer{
+    bottom: 0;
+}
