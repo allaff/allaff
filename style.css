@@ -108,10 +108,7 @@ p{
 }
 
 .icon--instagram:hover {
-    background-image: radial-gradient(circle at 30% 107%,
-            #fdf497 0%, #fdf497 5%,
-            #fd5949 45%, #d6249f 60%,
-            #285AEB 90%);
+    background-image: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%,#fd5949 45%, #d6249f 60%,#285AEB 90%);
     outline-color: #a02d76;
 }
 
@@ -148,15 +145,24 @@ p{
     }
 }
 
+div.projetos{
+    display: flex;
+    align-items: center;
+    padding:2rem;
+    min-width: 100%;
+    margin-left: 2rem;
+    padding: 30px 15em;
+}
+
 figure.container {
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family:"Poppins";
     color: #fff;
     position: relative;
     overflow: hidden;
     margin: 10px;
     min-width: 220px;
     max-width: 310px;
-    max-height: 220px;
+    max-height: 320px;
     width: 100%;
     color: #ffffff;
     text-align: left;
@@ -235,6 +241,7 @@ figure.container {
 
 footer{
     bottom: 0;
-    display: block;
+    display: flex;
     text-align: center;
+
 }
